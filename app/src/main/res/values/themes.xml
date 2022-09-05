@@ -1,0 +1,30 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.Pomotimer" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#ff0f3350</item>
+        <item name="colorPrimaryDark">#ff0f3350</item>
+        <item name="colorAccent">#ff0f3350</item>
+    </style>
+
+    <style name="Theme.MySplash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_pomologo</item>
+        <item name="postSplashScreenTheme">@style/Theme.Pomotimer</item>
+    </style>
+
+    <style name="BottomNavigation.ActiveItemTextAppearance" parent="TextAppearance.AppCompat">
+        <item name="android:textStyle">bold</item>
+
+    </style>
+
+    <style name="Theme.MySplash.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="Theme.MySplash.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="Theme.MySplash.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

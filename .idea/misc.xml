@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2115" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_add_2.xml" value="0.1285" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_background.xml" value="0.2115" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_button.xml" value="0.2815" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_cofing.xml" value="0.1285" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_config.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_icon.xml" value="0.2115" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_play.xml" value="0.196" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_pomologo.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_pomotimerlogo.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_setitup.xml" value="0.196" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_timer.xml" value="0.1285" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_todo.xml" value="0.1285" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/item_selector.xml" value="0.196" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/round_corner.xml" value="0.2815" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/set_it_up.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/test.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/font/baloo.xml" value="0.275" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/font/font.xml" value="0.275" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/activity_config.xml" value="0.21" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/activity_todo_list.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/card.xml" value="0.24479166666666666" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/content_main.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_add.xml" value="0.29791666666666666" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_config.xml" value="0.25" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_first.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_second.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_timer.xml" value="0.25" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_todo.xml" value="0.33" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_todo2.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/item_todo.xml" value="0.33" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/number_picker.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/seekbar_dialog.xml" value="0.33" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/single_item.xml" value="0.35104166666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/bottom_menu.xml" value="0.67" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/item_menu.xml" value="0.18802083333333333" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
