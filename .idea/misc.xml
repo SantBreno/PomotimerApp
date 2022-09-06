@@ -14,6 +14,7 @@
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2115" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_play.xml" value="0.196" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_pomologo.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_pomologo_foreground.xml" value="0.1" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_pomotimerlogo.xml" value="0.1" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_setitup.xml" value="0.196" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/ic_timer.xml" value="0.1285" />
@@ -46,6 +47,7 @@
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1785" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.1375" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/mipmap-anydpi-v26/ic_pomologo.xml" value="0.1" />
       </map>
     </option>
   </component>
