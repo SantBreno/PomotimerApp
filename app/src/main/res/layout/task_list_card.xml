@@ -3,20 +3,22 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:id="@+id/cv_task_list"
-    android:layout_width="380dp"
+    android:layout_width="375dp"
     android:layout_height="75dp"
     android:layout_marginTop="1dp"
-    android:layout_marginBottom="1dp"
+    android:layout_marginBottom="8dp"
     app:cardBackgroundColor="@color/white"
     app:cardCornerRadius="15dp"
-    app:cardElevation="8dp"
-    android:layout_gravity="center_horizontal">
+    app:cardElevation="5dp"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginStart="5dp">
 
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:padding="6dp">
+        android:padding="6dp"
+        >
 
         <TextView
             android:id="@+id/tv_task_title"
