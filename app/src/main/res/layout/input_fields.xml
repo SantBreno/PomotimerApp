@@ -32,7 +32,7 @@
             style="@style/Widget.MaterialComponents.TextInputLayout.FilledBox.ExposedDropdownMenu"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
+            android:layout_marginTop="20dp"
             android:hint="@string/task_tag">
 
             <AutoCompleteTextView
@@ -48,7 +48,7 @@
             android:id="@+id/til_date"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:layout_marginTop="12dp"
+            android:layout_marginTop="20dp"
             android:hint="@string/due_date"
             android:clickable="true"
             android:focusable="true"
