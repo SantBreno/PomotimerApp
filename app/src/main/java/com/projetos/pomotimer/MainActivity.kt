@@ -10,6 +10,7 @@ class MainActivity : AppCompatActivity() {
     private val todoFragment = TodoFragment()
     private val configFragment = ConfigFragment()
     private val timerFragment = TimerFragment()
+    private val addFragment = AddFragment()
 
 
 
@@ -25,6 +26,7 @@ class MainActivity : AppCompatActivity() {
                 R.id.nav_todo -> replaceFragment(todoFragment)
                 R.id.nav_config -> replaceFragment(configFragment)
                 R.id.nav_timer -> replaceFragment(timerFragment)
+                R.id.nav_add -> replaceFragment(addFragment)
             }
             true
         }

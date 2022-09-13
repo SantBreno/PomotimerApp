@@ -9,7 +9,7 @@
         android:id="@+id/addFragment"
         android:name="com.projetos.pomotimer.AddFragment"
         android:label="fragment_add"
-        tools:layout="@layout/fragment_add" />
+        tools:layout="@layout/fragment_add_task" />
     <fragment
         android:id="@+id/timerFragment"
         android:name="com.projetos.pomotimer.TimerFragment"
