@@ -7,22 +7,22 @@
 
     <fragment
         android:id="@+id/addFragment"
-        android:name="com.projetos.pomotimer.AddFragment"
+        android:name="com.projetos.pomotimer.ui.AddFragment"
         android:label="fragment_add"
         tools:layout="@layout/fragment_add_task" />
     <fragment
         android:id="@+id/timerFragment"
-        android:name="com.projetos.pomotimer.TimerFragment"
+        android:name="com.projetos.pomotimer.ui.TimerFragment"
         android:label="fragment_timer"
         tools:layout="@layout/fragment_timer" />
     <fragment
         android:id="@+id/todoFragment"
-        android:name="com.projetos.pomotimer.TodoFragment"
+        android:name="com.projetos.pomotimer.ui.TodoFragment"
         android:label="fragment_todo"
         tools:layout="@layout/fragment_todo" />
     <fragment
         android:id="@+id/configFragment"
-        android:name="com.projetos.pomotimer.ConfigFragment"
+        android:name="com.projetos.pomotimer.ui.ConfigFragment"
         android:label="fragment_config"
         tools:layout="@layout/fragment_config" />
 </navigation>

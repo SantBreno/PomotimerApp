@@ -1,10 +1,15 @@
-package com.projetos.pomotimer
+package com.projetos.pomotimer.ui
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.core.splashscreen.SplashScreen.Companion.installSplashScreen
 import androidx.fragment.app.Fragment
 import com.google.android.material.bottomnavigation.BottomNavigationView
+import com.projetos.pomotimer.R
+import com.projetos.pomotimer.ui.AddFragment
+import com.projetos.pomotimer.ui.ConfigFragment
+import com.projetos.pomotimer.ui.TimerFragment
+import com.projetos.pomotimer.ui.TodoFragment
 
 class MainActivity : AppCompatActivity() {
     private val todoFragment = TodoFragment()

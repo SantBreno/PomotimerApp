@@ -24,6 +24,7 @@
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/item_selector.xml" value="0.196" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/round_corner.xml" value="0.2815" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/set_it_up.xml" value="0.1" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/tag_background_shape.xml" value="0.1435" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/drawable/test.xml" value="0.1" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/font/baloo.xml" value="0.275" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/font/font.xml" value="0.275" />
@@ -40,12 +41,12 @@
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_timer.xml" value="0.25" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_todo.xml" value="0.33" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/fragment_todo2.xml" value="0.1" />
-        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/input_fields.xml" value="0.25" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/input_fields.xml" value="0.14444444444444443" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/item_todo.xml" value="0.33" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/number_picker.xml" value="0.35104166666666664" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/seekbar_dialog.xml" value="0.33" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/single_item.xml" value="0.35104166666666664" />
-        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/task_list_card.xml" value="0.25" />
+        <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/layout/task_list_card.xml" value="0.22" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/bottom_menu.xml" value="0.67" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/bottom_nav_menu.xml" value="0.36666666666666664" />
         <entry key="..\:/Users/breno/AndroidStudioProjects/Pomotimer/app/src/main/res/menu/item_menu.xml" value="0.18802083333333333" />
